@@ -1,2 +1,2 @@
-# Html
-All html programs
+# HTML(Hypertext markup language)
+>All html Tags and Syntax
